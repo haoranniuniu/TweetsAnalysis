@@ -14,3 +14,8 @@ We will look into:
 5. Trending topics of USA from night of May-06-2018 to May-08-2018 to see how it compares to Elon Musk related topics
 
 Analysis Results:
+
+Topic Modeling
+![10topics](https://user-images.githubusercontent.com/35551173/40892259-a1ffe0a6-6762-11e8-9a6f-0ca9a7d56a8d.JPG)
+![topics](https://user-images.githubusercontent.com/35551173/40892260-a20ec814-6762-11e8-8a6f-14931ce2de98.JPG)
+
