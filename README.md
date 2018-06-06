@@ -16,6 +16,7 @@ We will look into:
 Analysis Results:
 
 Topic Modeling
+![tableau](https://user-images.githubusercontent.com/35551173/41056682-fcf0de2a-6992-11e8-8591-d9ecb49c5dce.JPG)
 
 ![10topics](https://user-images.githubusercontent.com/35551173/40892259-a1ffe0a6-6762-11e8-9a6f-0ca9a7d56a8d.JPG)
 ![topics](https://user-images.githubusercontent.com/35551173/40892260-a20ec814-6762-11e8-8a6f-14931ce2de98.JPG)
